@@ -30,7 +30,8 @@ print("The number of wors in string are :",str(result))
 
 ### OUTPUT:
 
-![Alt text](<Screenshot 2023-12-29 195037.png>)
+
+![Screenshot 2023-12-29 195037](https://github.com/sasintharparanthaman/Word-count/assets/145743219/5a69265d-568d-4416-9d6a-00ee2a83989b)
 
 
 ## RESULT:
